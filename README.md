@@ -17,9 +17,6 @@ factwise-python/
 │   └── board_impl.py    # Implements ProjectBoardBase
 ├── db/                  # SQLite database lives here (auto-created)
 ├── out/                 # Exported board .txt files
-├── user_base.py         # Provided abstract base
-├── team_base.py         # Provided abstract base
-└── project_board_base.py# Provided abstract base
 ```
 
 ---
